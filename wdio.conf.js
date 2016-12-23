@@ -5,7 +5,7 @@ exports.config = {
     // Service Providers
     // =================
     // WebdriverIO supports 
-    Labs, Browserstack, and Testing Bot (other cloud providers
+    // Labs, Browserstack, and Testing Bot (other cloud providers
     // should work too though). These services define specific user and key (or access key)
     // values you need to put in here in order to connect to these services.
     //
